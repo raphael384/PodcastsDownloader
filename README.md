@@ -23,7 +23,7 @@ The `"count"` key stores the number of podcasts you have already downloaded.
 
 3. Create a download directory with the same name as your `data.json` file:
 
-Create a directory named `podcasts/name`.
+Create a directory named `podcasts/Name`.
 
 4. Run the script with the following command:
 ```bash
